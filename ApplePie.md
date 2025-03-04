@@ -20,7 +20,7 @@
 
 
 
-<div align="center">
+<div align="left">
 <img src="./Images/Apple-pie.jpg" alt="ApplePie" width="350"/>  
 </div>
 
