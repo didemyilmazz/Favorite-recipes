@@ -21,7 +21,7 @@
 
 
 <div align="center">
-<img src="./images/Apple-pie.jpg" alt="ApplePie" width="350"/>  
+<img src="./Images/Apple-pie.jpg" alt="ApplePie" width="350"/>  
 </div>
 
 
