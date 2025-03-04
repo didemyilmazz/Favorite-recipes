@@ -17,4 +17,12 @@
 - 1 cup granulated sugar
 - 1 egg , + 1 Tbsp water, for egg wash
 
-  
+
+
+
+<div align="center">
+<img src="./images/Apple-pie.jpg" alt="ApplePie" width="350"/>  
+</div>
+
+
+
